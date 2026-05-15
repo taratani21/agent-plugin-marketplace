@@ -10,8 +10,8 @@
         "source": "github",
         "repo": "taratani21/nvim-claude"
       },
-      "description": "Neovim integration for Claude Code — active buffer context and terminal management",
-      "version": "0.7.0",
+      "description": "Neovim integration for Claude Code — IDE protocol, per-turn diffs, and terminal management",
+      "version": "0.8.0",
       "keywords": ["neovim", "editor", "context"]
     }
   ]
